@@ -18,6 +18,8 @@ namespace AutoMobileConnect
         public LoginPage()
         {
             this.driver = driver;
+
+            // satya testing
             DesiredCapabilities cap = new DesiredCapabilities();
             cap.SetCapability("deviceName", "009f5afb3866b693");
             cap.SetCapability("platformVersion", "8.1.0");
