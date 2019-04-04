@@ -21,6 +21,7 @@ namespace AutoMobileConnect
 
             // satya testing
             // second test
+            //test 3
             DesiredCapabilities cap = new DesiredCapabilities();
             cap.SetCapability("deviceName", "009f5afb3866b693");
             cap.SetCapability("platformVersion", "8.1.0");
